@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#border-box {
+  border: 5px groove #1C6EA4;
+}
+
+#padded {
+  padding: 0px 0px 0px 5px;
+}
+
+#bold-padded {
+  padding: 8px 15px 0px 0px;
+  margin-top: 5px;
+  font-weight: bold;
+}
